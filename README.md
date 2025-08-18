@@ -27,7 +27,7 @@ This project is a mechanical design of a functional **prosthetic hand**, created
 
 ## 📂 File Structure
 prosthetic-hand/
-# Parts/ 
+Parts/ [https://github.com/shirel-zoe/Prosthetic-Hand-Design-in-SolidWorks/tree/main/all%20parts]
 # Assembly/ (your main .SLDASM file)
 # Simulation/ (your motion study video, if exported as .mp4)
 # Renders/ (rendered PNG/JPG images)
